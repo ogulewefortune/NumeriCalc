@@ -1,4 +1,7 @@
 # NumeriCalc
+
+<img width="635" alt="Screenshot 2023-11-13 at 3 41 01 PM" src="https://github.com/ogulewefortune/NumeriCalc/assets/74354924/89f56507-2590-471b-977d-e830b4656257">
+
 Numerical is a cutting-edge math laboratory application designed to facilitate the efficient and accurate solving of a wide array of mathematical functions. This app is tailored for users who require precise numerical solutions, making it a valuable tool for students, researchers, and professionals across various disciplines.
 Key Features:
 * 		Function Solver: Numerical  employs advanced numerical methods to solve complex mathematical functions. Users can input equations, and the app provides accurate numerical solutions, even for equations with no analytical solutions.
